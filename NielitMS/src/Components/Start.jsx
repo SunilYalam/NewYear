@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
 import CalculateSalary from './CalculateSalary';
-import { Container, Navbar, Nav, Carousel, Row, Col, Card, Image, Form, Button, Dropdown } from 'react-bootstrap';
+import { Container, Navbar, Nav, Carousel, Row, Col, Card, Image, Dropdown } from 'react-bootstrap';
 import slide1 from "../assets/Images/slide1.png";
 import tech_1 from "../assets/Images/tech_1.jpeg";
 import tech_2 from "../assets/Images/tech_2.jpg";
