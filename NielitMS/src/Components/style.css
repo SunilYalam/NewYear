@@ -1,0 +1,16 @@
+.loginPage{
+    background: url(Image);
+    background: linear-gradient();
+    background-position: center;
+    background-size: 100% 120%;
+}
+.loginForm{
+    background-color: rgba(1,32,94,0.0);
+    /* color: #fff; */
+    color: black;
+}
+.emp_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
